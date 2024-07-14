@@ -1,1 +1,1 @@
-This is webiste for cloud solutions
+This website for cloud solutions
